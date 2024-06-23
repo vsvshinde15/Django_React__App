@@ -1,5 +1,5 @@
 # Django_React__App
-# Django React App
+application created to learn django Rest framework 
 
 ## Project Setup
 
@@ -71,15 +71,6 @@ CreateAPIView and ListAPIView
 CreateAPIView: A view that provides a method to handle POST requests for creating new model instances.
 ListAPIView: A view that provides a method to handle GET requests for listing multiple model instances.
 
-## Project Setup
-
-### Create Django Project
-
-```sh
-django-admin startproject ProjectName
-cd ProjectName
-Create djnago app
-django-admin startapp AppName
 
 
 
