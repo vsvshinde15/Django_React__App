@@ -18,5 +18,15 @@ application created to learn django Rest framework
  What are foreign keys?
  what are CreateAPIView, ListAPIViEW ?
 
- 
+ # Django React App
+
+## Project Setup
+
+### Create Django Project
+
+```sh
+django-admin startproject ProjectName
+cd ProjectName
+Create djnago app
+django-admin startapp AppName
  
