@@ -8,7 +8,17 @@
 ```sh
 django-admin startproject "ProjectName"
 cd "ProjectName"
+```
+### Create Django Application
 
+```sh
+django-admin startapp "AppName"
+```
+
+Running a django server
+
+```sh
+python3 manage.py runserver
 ```
 
 application created to learn django Rest framework 
