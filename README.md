@@ -35,13 +35,11 @@ Migrations are Django’s way of propagating changes you make to your models int
 
 Making Migrations:
 
-sh
-Copy code
+
 python3 manage.py makemigrations
+
 Applying Migrations:
 
-sh
-Copy code
 python3 manage.py migrate
 Migrations are necessary to keep the database schema in sync with the current state of the models.
 
