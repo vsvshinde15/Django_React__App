@@ -1,7 +1,15 @@
 # Django_React__App
-Create project command => django-admin startproject "ProjectName"
-Create APP command => django-admin startapp "Appname"
-Run server command =>  python3 manage.py runserver  
+# Django React App
+
+## Project Setup
+
+### Create Django Project
+
+```sh
+django-admin startproject "ProjectName"
+cd "ProjectName"
+
+```
 
 application created to learn django Rest framework 
 
