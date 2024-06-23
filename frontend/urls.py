@@ -7,5 +7,4 @@ urlpatterns = [
     path('create-room', index),
     # Format to write query parameter related URL's
     path('room/<str:roomCode>', index),
-    path('join/1', index)
 ]

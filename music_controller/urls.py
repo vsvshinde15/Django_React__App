@@ -24,5 +24,5 @@ urlpatterns = [
     # here api.urls is talking about urls.py file from api application
     path('api/', include('api.urls')),
     # all apis except above path will be routed to frontend application
-    path('', include('frontend.urls')),
+    path('', include('frontend.urls'))
 ]
